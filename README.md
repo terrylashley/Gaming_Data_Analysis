@@ -1,9 +1,3 @@
----
-noteId: "06df5820365211ea9562332c80e8cebe"
-tags: []
-
----
-
 # Heroes of Pymoli Research
 Analyzing an independent gaming company's data for future strategic decision making. The most recent data for the fantasy game Heroes of Pymoli is given. 
 
