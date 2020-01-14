@@ -1,17 +1,15 @@
+
+
 Heroes of Pymoli Alanysis
 
-After analysing the given data for the fantasy game Heroes of Pymoli I've made several 
-observations.
 
+After analysing the given data for the fantasy game Heroes of Pymoli I've made several observations.
 
-Demographics:
+Heroes is very popular amung male gamers with 84% of its usage. However, there is a small precentage of female gamers at just 14%. This is a very telling statistic and could be an area of future growth. An observation could be made of the items commonly purchased by the female players. That data can be used to determine future products to attract more female players.
 
+The majority of the users of Heroes of Pymoli Alanysis are between 15 to 29 years old at approximately 75% of its users. Within that age range 20 to 24 year olds take up approximately 44%. Ages 30-34 take up about 9% of the overall total as far as game play but they have a fair contribution towards purchasing items. 
 
-
-
-
-
-Purchasing history
+The majority of revenue is generated from ages 15-24 years old. That is extremely swayed with 20-24 years old purchasing $1114.06 and 15-19 years old purchasing $412.89. 25-34 years old has a fair combined contribution to the revenue with 508.00. The 25-34 age bracket is a potential market to appeal to with future items. 
 
 
 
