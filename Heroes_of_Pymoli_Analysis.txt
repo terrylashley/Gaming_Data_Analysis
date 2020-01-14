@@ -4,7 +4,7 @@ After analysing the given data for the fantasy game Heroes of Pymoli I've made s
 observations.
 
 
-Demographics
+Demographics:
 
 
 
@@ -16,7 +16,3 @@ Purchasing history
 
 
 
-
-
-
-High performing Items
